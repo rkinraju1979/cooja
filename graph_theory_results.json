@@ -1,0 +1,57 @@
+{
+  "circular29": {
+    "name": "Circular",
+    "avg_degree": 17.38,
+    "degree_var": 4.03,
+    "avg_hop_to_sink": 0.97,
+    "diameter": 1,
+    "algebraic_connectivity": 9.57,
+    "avg_clustering": 0.73,
+    "golden_ratio_harmony": 61.8,
+    "fitness_score": 182.79
+  },
+  "grid29": {
+    "name": "Grid",
+    "avg_degree": 14.55,
+    "degree_var": 17.63,
+    "avg_hop_to_sink": 1.07,
+    "diameter": 2,
+    "algebraic_connectivity": 5.051,
+    "avg_clustering": 0.729,
+    "golden_ratio_harmony": 62.68,
+    "fitness_score": 107.65
+  },
+  "hexagonal29": {
+    "name": "Hexagonal",
+    "avg_degree": 27.79,
+    "degree_var": 0.3,
+    "avg_hop_to_sink": 0.97,
+    "diameter": 1,
+    "algebraic_connectivity": 25.586,
+    "avg_clustering": 0.993,
+    "golden_ratio_harmony": 63.42,
+    "fitness_score": 425.7
+  },
+  "lucas29": {
+    "name": "Lucas",
+    "avg_degree": 0.48,
+    "degree_var": 0.32,
+    "avg_hop_to_sink": 0.5,
+    "diameter": 1,
+    "algebraic_connectivity": 0.0,
+    "avg_clustering": 0.0,
+    "golden_ratio_harmony": 64.81,
+    "fitness_score": 52.25
+  },
+  "random29": {
+    "name": "Random",
+    "avg_degree": 15.31,
+    "degree_var": 23.73,
+    "avg_hop_to_sink": 1.1,
+    "diameter": 2,
+    "algebraic_connectivity": 3.906,
+    "avg_clustering": 0.793,
+    "golden_ratio_harmony": 62.93,
+    "fitness_score": 87.25
+  }
+}

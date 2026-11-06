@@ -1,0 +1,104 @@
+670: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACJgAAAPoCAYAAACYy9Y4AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+696: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAAPoCAYAAACGXmWqAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+703: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB9AAAAPoCAYAAACGXmWqAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+766: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+767: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d
+771: <div class="chart-box"><h3 style="color: var(--accent-gold);">End-to-End Latency (ms)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABfoAAAMqCAYAAADabfDNAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+772: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+776: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+800: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+804: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+810: <div class="chart-box"><h3 style="color: var(--accent-red);">First Node Died (FND Round)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAANICAYAAAChbo5mAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG9
+822: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+823: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d
+827: <div class="chart-box"><h3 style="color: var(--accent-gold);">End-to-End Latency (ms)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABfoAAAMqCAYAAADabfDNAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+828: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+832: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+850: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+856: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+860: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+865: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+866: <div class="chart-box"><h3 style="color: var(--accent-red);">First Node Died (FND Round)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAANICAYAAAChbo5mAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG9
+875: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (123 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALNCAYAAADEc5F8AAAAOnRFWHRTb2Z0d2
+879: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d
+884: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+888: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+893: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+903: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (199 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALJCAYAAABf4tNqAAAAOnRFWHRTb2Z0d2
+907: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d
+912: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+916: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+921: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+922: <div class="chart-box"><h3 style="color: var(--accent-red);">First Node Died (FND Round)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAANICAYAAAChbo5mAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG9
+931: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (200 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALbCAYAAAAR/HD6AAAAOnRFWHRTb2Z0d2
+944: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+949: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+959: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (300 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAERcAAANvCAYAAABZy1qaAAAAOnRFWHRTb2Z0d2
+962: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHR
+963: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d
+967: <div class="chart-box"><h3 style="color: var(--accent-gold);">End-to-End Latency (ms)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+972: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d2FyZQ
+977: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+987: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (322 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALPCAYAAACJuzB3AAAAOnRFWHRTb2Z0d2
+990: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+991: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d
+996: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+1000: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1005: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+1015: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (400 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALPCAYAAACJuzB3AAAAOnRFWHRTb2Z0d2
+1018: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+1028: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1043: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (500 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALRCAYAAACwZ1OcAAAAOnRFWHRTb2Z0d2
+1046: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHR
+1052: <div class="chart-box"><h3 style="color: var(--accent-red);">Residual Energy (Joules)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+1056: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1057: <div class="chart-box"><h3 style="color: var(--accent-blue);">RPL DIO Control Overhead</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90b
+1061: <div class="chart-box"><h3 style="color: var(--accent-green);">Average Network Throughput</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG
+1071: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (521 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALRCAYAAACwZ1OcAAAAOnRFWHRTb2Z0d2
+1084: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1099: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (1000 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAALHCAYAAABl6LIaAAAAOnRFWHRTb2Z0d
+1112: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1113: <div class="chart-box"><h3 style="color: var(--accent-blue);">RPL DIO Control Overhead</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90b
+1127: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (2000 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADf4AAAKxCAYAAAC4k1zGAAAAOnRFWHRTb2Z0d
+1140: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1141: <div class="chart-box"><h3 style="color: var(--accent-blue);">RPL DIO Control Overhead</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90b
+1146: <div class="chart-box"><h3 style="color: var(--accent-red);">First Node Died (FND Round)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAANICAYAAAChbo5mAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG9
+1155: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (5000 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADfcAAALaCAYAAAAmtYiVAAAAOnRFWHRTb2Z0d
+1168: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAALQCAYAAABmJdeHAAAAOnRFWHRTb2Z0d2FyZQ
+1183: <div class="chart-box"><h3 style="color: var(--accent-purple);">Spatial Network Placement (10000 Motes)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAERwAAANUCAYAAADPllYDAAAAOnRFWHRTb2Z0
+1186: <div class="chart-box"><h3 style="color: var(--accent-blue);">Packet Delivery Ratio (PDR %) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHR
+1187: <div class="chart-box"><h3 style="color: var(--accent-green);">Power Consumption (mW) over 1000 Rounds</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d
+1191: <div class="chart-box"><h3 style="color: var(--accent-gold);">End-to-End Latency (ms)</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bG
+1196: <div class="chart-box"><h3 style="color: var(--accent-purple);">Radio Duty Cycle (RDC %) per Node</h3><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABqQAAAOECAYAAADHRFCpAAAAOnRFWHRTb2Z0d2FyZQ
+1301: <!-- Figure 1: Clustering Configurations under Different Densities -->
+1303: <h3 style="color: var(--accent-green); font-size: 18px;">Figure 1. Clustering Configurations across Density Levels (Low, Medium, High, & Lucas Top Performer)</h3>
+1304: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACrQAAAlLCAYAAACuPrCpAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+1307: <!-- Figure 3: Algorithm 1 Power Consumption Simulation Results across 6h, 12h, 18h, 24h -->
+1309: 📊 Algorithm 1: Power Consumption Simulation with Energy Harvesting (Figure 3)
+1314: <h3 style="color: var(--accent-blue);">Figure 3(a): Power Consumption (6 Hours Simulation)</h3>
+1315: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7wAAANtCAYAAAAD+AQ/AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+1318: <h3 style="color: var(--accent-gold);">Figure 3(b): Power Consumption (12 Hours Simulation)</h3>
+1319: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7wAAANtCAYAAAAD+AQ/AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+1325: <h3 style="color: var(--accent-purple);">Figure 3(c): Power Consumption (18 Hours Simulation)</h3>
+1329: <h3 style="color: var(--accent-green);">Figure 3(d): Power Consumption (24 Hours Simulation)</h3>
+1330: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7wAAANtCAYAAAAD+AQ/AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+1547: <h3 style="color: var(--accent-purple);">Figure 3. Representation of Lucas-based clustering model.</h3>
+1548: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACqQAAAmrCAYAAACf1CrDAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1551: <h3 style="color: var(--accent-blue);">Figure 4. Cluster tree.</h3>
+1552: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACicAAAmrCAYAAACS5pjBAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1558: <h3 style="color: var(--accent-red);">Figure 5. Mesh network.</h3>
+1559: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACicAAAmrCAYAAACS5pjBAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1562: <h3 style="color: var(--accent-green);">Figure 6. TGO mesh network.</h3>
+1563: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACicAAAmrCAYAAACS5pjBAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1572: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7YAAAVGCAYAAAAaYVQ5AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1576: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7YAAAVGCAYAAAAaYVQ5AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1582: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7YAAAVGCAYAAAAaYVQ5AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1586: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7YAAAVGCAYAAAAaYVQ5AAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAmcwAAJnMB82x1CgAB
+1594: <h3 style="color: var(--accent-blue);">Figure 7. Dynamic comparison-1 of different smart home topologies with Lucas-based clustering.</h3>
+1598: <h3 style="color: var(--accent-gold);">Figure 8. Dynamic comparison-2 of different smart home topologies with Lucas-based clustering.</h3>
+1604: <h3 style="color: var(--accent-purple);">Figure 9. Dynamic comparison-3 of different smart home topologies with Lucas-based clustering.</h3>
+1605: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABvMAAAPUCAYAAACQAsVvAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
+1608: <h3 style="color: var(--accent-green);">Figure 10. Dynamic comparison-4 of different smart home topologies with Lucas-based clustering.</h3>
+1613: <!-- Section 4: Consolidated Comparison Across 18 Experiments (Figure 11) -->
+1615: <h3 style="color: var(--accent-green); font-size: 18px;">Figure 11. Consolidated comparison of different smart home topologies with Lucas-based clustering.</h3>
+1616: <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB7sAAAPTCAYAAADB5G1DAAAAOnRFWHRTb2Z0d2FyZQBNYXRwbG90bGliIHZlcnNpb24zLjEwLjMsIGh0dHBzOi8vbWF0cGxvdGxpYi5vcmcvZiW1igAAAAlwSFlzAAAewgAAHsIBbtB1PgAB
